@@ -4,8 +4,8 @@
     <title>together</title>
 </head>
 <body>
-<h1>Together</h1>
-<a href="${pageContext.request.contextPath}/chayushin">chayushin</a>;
+    <h1>Together</h1>
+    <a href="${pageContext.request.contextPath}/chayushin">chayushin</a>;
 
 </body>
 </html>
