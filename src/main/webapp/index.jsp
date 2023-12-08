@@ -2,6 +2,14 @@
 <html>
 <head>
     <title>together</title>
+    <%-- css --%>
+    <%-- owj7182 start --%>
+    <%-- owj7182 end --%>
+    
+    <%-- script --%>
+    <%-- owj7182 start --%>
+    <%-- owj7182 end --%>
+
 </head>
 <body>
     <h1>Together</h1>
