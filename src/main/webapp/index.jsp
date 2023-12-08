@@ -11,7 +11,7 @@
     <script src="https://zzz.com/zzz.js"></script>
     <%-- owj7182 end --%>
     <%-- chayushin start --%>
-    <script src="http://xxx.com/xxx.js"></script>
+    <script src="https://xxx.com/xxx.js"></script>
     <%-- chayuhshin end--%>
 </head>
 <body>
