@@ -5,9 +5,10 @@
     <%-- css --%>
     <%-- owj7182 start --%>
     <%-- owj7182 end --%>
-    
+
     <%-- script --%>
     <%-- owj7182 start --%>
+    <script src="https://zzz.com/zzz.js"></script>
     <%-- owj7182 end --%>
 
 </head>
