@@ -1,22 +1,24 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" pageEncoding="UTF-8" %>
 <html>
 <head>
-    <title>together</title>
-    <%-- CSS --%>
-    <%-- chunmujin start --%>
-    <%-- chunmujin end --%>
-    <%-- chayushin start --%>
-    <%-- chayushin end --%>
+    <h1>Together</h1>
+
+    <%-- css --%>
+    <%-- owj7182 start --%>
+    <%-- owj7182 end --%>
 
     <%-- script --%>
-    <%-- chunmujin start --%>
-    <%-- chunmujin end --%>
+    <%-- owj7182 start --%>
+    <script src="https://zzz.com/zzz.js"></script>
+    <%-- owj7182 end --%>
     <%-- chayushin start --%>
-    <%-- chayushin end --%>
+    <script src="http://xxx.com/xxx.js"></script>
+    <%-- chayuhshin end--%>
 </head>
 <body>
     <h1>Together</h1>
+    <a href="${pageContext.request.contextPath}/chayushin">chayushin</a>;
+    <a href="${pageContext.request.contextPath}/owj7182">owj7182</a>
     <a href="${pageContext.request.contextPath}/chunmujin">chunmujin</a>
-
 </body>
 </html>
