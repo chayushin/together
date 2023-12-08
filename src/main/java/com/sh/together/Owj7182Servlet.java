@@ -13,7 +13,9 @@ public class Owj7182Servlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html; charset=utf-8");
-        resp.getWriter().print("owj7182😁");
+        resp.getWriter().println("owj7182😁");
+        resp.getWriter().println("git협업 연습중입니다.");
+        resp.getWriter().append("열심히 하겠습니다.");
 
     }
 }
